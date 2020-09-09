@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### About Me
+My name is Dawid Michalski. I am self-educated developer without experience in the IT world. However, I have potential to become solid experienced developer quickly. All I need is a team that trusts me and allows me to grow with them 💪. 
+
+
 
 <!--
 **vedymin/vedymin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
