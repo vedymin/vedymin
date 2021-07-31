@@ -1,23 +1,38 @@
 ### Hi there 👋
 #### About Me
-My name is Dawid Michalski. I am self-educated developer without experience in the IT world. However, I have potential to become solid experienced developer quickly. All I need is a team that trusts me and allows me to grow with them 💪. 
+My name is Dawid Michalski. I am self-educated developer with 1 year experience in the IT world. I have potential to become solid experienced developer quickly. All I need is a team that trusts me and allows me to grow with them 💪. 
 
-### My Skills
+### My General Skills
 
-#### HTML, CSS  🟢🟢🟢⚪⚪
-* I have knowledge about all standard tags in HTML and how to use them properly. I can easily create CSS files from art concept to working responsible website.
+#### OOP, SOLID, DRY 🟢🟢🟢🟢⚪
+#### GIT 🟢🟢🟢🟢⚪
+* I know how to use Git properly in CLI with gitFlow, how to be save with pushing, how to rebase and fix issues in repositories.
+#### Scrum, Agile 🟢🟢🟢🟢⚪
+#### Azure Dev/Ops 🟢🟢🟢🟢⚪
+#### Jira 🟢🟢⚪⚪⚪
+#### CI/CD 🟢🟢🟢⚪⚪
 
-#### Node, Express  🟢🟢⚪⚪⚪
-* I can create basic CRUD API endopoints connected to database. I know how to use middleware, routing, params an queries.
+### My Backend Skills
 
-#### React   🟢🟢⚪⚪⚪
-* I am able to create user interface from components for handling CRUD operations. I know hot to use state, props, how to handle functions, how to print a list dynamicaly.
+#### .NET Core 3 🟢🟢⚪⚪⚪
+* I know how to create SPA website with usage of ASP.NET Core, how to add routing, bootstrapers for dependency injection, cors. I know Swagger, but don't know how to configure it. 
+
+#### Entity Framework Core 🟢🟢🟢⚪⚪
+* I can create new classes for EF, generate migrations, I understand relations and how to model them in C#
 
 #### MySql, DB2 🟢🟢🟢⚪⚪
 I can create complex joins with some care about performance (though it's not something I like most 😊)
 
-#### Git  🟢🟢🟢🟢⚪
-I know how to use Git properly in CLI with gitFlow, how to be save with pushing, how to rebase and fix issues in repositories.
+### My Frontend Skills
+
+#### HTML, CSS  🟢🟢🟢🟢⚪
+* I have knowledge about all standard tags in HTML and how to use them properly. I can easily create CSS files from art concept to working responsible website.
+
+#### Vue 🟢🟢🟢⚪⚪
+* I am able to create user interface from components for handling CRUD operations, how to made forms, how to use Vuetify for RWD. I know hot to use state, props, how to handle functions, how to print a list dynamicaly. I have basic knowledge abou MobX for store. 
+
+#### Angular 🟢⚪⚪⚪⚪
+* I know basics of Angular. I can work with actual code.
 
 ### My Strenghts
 * I'm crazy task focused
@@ -27,8 +42,8 @@ I know how to use Git properly in CLI with gitFlow, how to be save with pushing,
 * Courius, open-minded, outgoing, always happy 😜 
 
 ### Currently looking for
-I'm looking for a place and team where I can be really helpfull with tasks that no one wants to do. I need a job where I can show what I can do in a short time 🚀
-I'm total junior, and don't excpect great salary, it is not important for me for now. I actually need people who can understand my mind 🙄
+I'm looking for a place and team where I can be helpfull. I need a job where I can work remotly beacuse I live in small town and cannot leave.
+I'm experienced junior, and hoping to be mid soon. 
 
 ### You can reach me here:
 * [LinkedIn](https://www.linkedin.com/in/dawid-michalski/)
