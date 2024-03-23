@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### About Me
-My name is Dawid Michalski. I am self-educated developer with 1 year experience in the IT world. I have potential to become solid experienced developer quickly. All I need is a team that trusts me and allows me to grow with them 💪. 
+My name is Dawid Michalski. I am self-educated developer with 3.5 year experience in the IT world. 
 
 ### My General Skills
 
@@ -20,7 +20,7 @@ My name is Dawid Michalski. I am self-educated developer with 1 year experience 
 #### Entity Framework Core 🟢🟢🟢⚪⚪
 * I can create new classes for EF, generate migrations, I understand relations and how to model them in C#
 
-#### MySql, DB2 🟢🟢🟢⚪⚪
+#### MySql, DB2 🟢🟢🟢🟢⚪
 I can create complex joins with some care about performance (though it's not something I like most 😊)
 
 ### My Frontend Skills
@@ -31,8 +31,8 @@ I can create complex joins with some care about performance (though it's not som
 #### Vue 🟢🟢🟢⚪⚪
 * I am able to create user interface from components for handling CRUD operations, how to made forms, how to use Vuetify for RWD. I know hot to use state, props, how to handle functions, how to print a list dynamicaly. I have basic knowledge abou MobX for store. 
 
-#### Angular 🟢⚪⚪⚪⚪
-* I know basics of Angular. I can work with actual code.
+#### Angular 🟢🟢🟢🟢⚪
+* I know Angular. I can create an app from scratch, with proper architecture, and with declarative aproach with Rxjs.
 
 ### My Strenghts
 * I'm crazy task focused
@@ -43,11 +43,11 @@ I can create complex joins with some care about performance (though it's not som
 
 ### Currently looking for
 I'm looking for a place and team where I can be helpfull. I need a job where I can work remotly beacuse I live in small town and cannot leave.
-I'm experienced junior, and hoping to be mid soon. 
+I'm experienced fullstack mid, and hoping to be senior soon. 
 
 ### You can reach me here:
 * [LinkedIn](https://www.linkedin.com/in/dawid-michalski/)
-* [e-mail](mailto:michalskimlm@gmail.com)
+* [e-mail](mailto:biuro@bpdm.com)
 
 
 <!--
