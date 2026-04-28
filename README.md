@@ -2,7 +2,7 @@
 
 I'm Dawid Michalski — fullstack developer based in Poland, working remotely.
 
-For the past few years I've been at **Canon Ophthalmic Technologies**, contracted to **Canon Medical Research Europe** on the SHAIP project — peripheral software for training neural networks on anonymised data from Scottish hospitals. It's a microservices system in Node.js / Ts.ED with an Angular frontend that does some unusual things: orchestrating Linux VMs and container runtimes from inside a browser-accessible app.
+For the past few years I've been at **Canon Ophthalmic Technologies**, contracted to **Canon Medical Research Europe** on the SHAIP project — peripheral software for training neural networks on anonymised data from Scottish hospitals. It's a microservices system where the backend programmatically manages Linux infrastructure on behalf of researchers — provisioning storage (LVM, NFS), managing filesystem permissions and ACLs, orchestrating Docker containers via dockerode, and integrating with Active Directory — so that everything is controllable through a browser-accessible Angular UI.
 
 Over the last year and a half, my role has grown beyond writing code. I became the primary point of contact with the client, joined their daily standups, and now lead bi-weekly sprint planning and review sessions with stakeholders in Scotland and Japan. I'm typically first to analyse new requirements, co-author specs with the client, and coordinate work prioritisation and task allocation within our 4-person team.
 
@@ -14,11 +14,10 @@ I came into IT sideways. Before this I was a warehouse system administrator at X
 
 #### What I do day-to-day
 
-- Ship features across an Angular SPA and TypeScript microservices in a 4-person team
+- Build features across an Angular SPA and TypeScript microservices in a 4-person team
+- Work where the backend meets the host system — orchestrating LVM volumes, NFS mounts, filesystem permissions, and Docker containers programmatically from Node
 - Lead client-facing rituals — sprint planning, reviews, requirements analysis with stakeholders across multiple time zones
-- Work on the boundaries between services — DTOs, permission guards, transactional flows, audit logging
-- Refactor fat controllers into proper application/domain/repository layers
-- Debug across the whole stack: Angular in the browser, Node in Docker containers, source maps and all
+- Surface real-time system state from the backend to the Angular UI
 
 #### Stack I use professionally
 
@@ -27,6 +26,8 @@ I came into IT sideways. Before this I was a warehouse system administrator at X
 **Backend** — Node.js, TypeScript, Ts.ED, Prisma, REST, microservices
 
 **Healthcare data** — FHIR
+
+**Linux systems** — LVM, NFS, ACL, programmatic shell orchestration, Docker via dockerode, Active Directory integration
 
 **Testing** — Mocha, Chai, Sinon, Karma, Jasmine
 
